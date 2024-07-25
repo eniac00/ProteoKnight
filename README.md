@@ -8,7 +8,7 @@ Knight Encoding is a unique method developed to convert text-based protein seque
 
 Traditional methods of protein sequence analysis often rely on text-based approaches, which can be limiting in terms of the features that can be extracted and the models that can be applied. By transforming these sequences into images, we open up new possibilities for analysis using powerful image classification models.
 
-<img src="/home/abir/ProteoKnight/images/seq_to_image.png" alt="seq_to_image" style="zoom: 80%;" />
+<img src="./images/seq_to_image.png" alt="seq_to_image" style="zoom: 80%;" />
 
 Clone the whole repository using `git` command or download the zip file and extract.
 
