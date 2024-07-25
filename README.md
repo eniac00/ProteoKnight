@@ -4,7 +4,7 @@ intro will go here
 Clone the whole repository using `git` command or download the zip file and extract.
 
 ```shell
-git clone https://github.com/KennthShang/PhaVIP.git
+git clone https://github.com/eniac00/ProteoKnight.git
 ```
 
 ## Table of contents
