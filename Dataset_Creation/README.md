@@ -1,17 +1,6 @@
-# ProteoKnight
-intro will go here
-
-
-
-Clone the whole repository using `git` command or download the zip file and extract.
-
-```shell
-git clone https://github.com/KennthShang/PhaVIP.git
-```
-
 # Creating the Dataset
 
-To create the image dataset from the text dataset, it would be best if we create a python environment and install the dependencies there.
+To create the image dataset from the text dataset, it would be best if we create a python environment and install the dependencies in the environment.
 
 ## Virtual Environment
 
@@ -28,6 +17,10 @@ source ./proteo/bin/activate
 ```
 
 ## Install the dependencies
+
+```shell
+cd Dataset_Creation
+```
 
 ```shell
 pip install -r requirements.txt
