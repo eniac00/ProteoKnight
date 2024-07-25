@@ -1,5 +1,12 @@
 # ProteoKnight
-intro will go here
+
+## What is Knight Encoding?
+
+Knight Encoding is a unique method developed to convert text-based protein sequences into images. The encoding process draws inspiration from the moves of a knight in a chess game, allowing us to create visual representations of protein sequences that retain essential biological information.
+
+## Why Knight Encoding?
+
+Traditional methods of protein sequence analysis often rely on text-based approaches, which can be limiting in terms of the features that can be extracted and the models that can be applied. By transforming these sequences into images, we open up new possibilities for analysis using powerful image classification models.
 
 Clone the whole repository using `git` command or download the zip file and extract.
 
